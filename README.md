@@ -92,9 +92,9 @@ Serial Monitor > 115200 baud
 ---
 
 ## Project Showcase  
-### Real-World Deployment  
-![Garden Installation](media/photo_garden.jpg)  
-*SolarLeaf monitoring tomato plants in outdoor garden (72 days continuous operation)*  
+
+![Generate by AI](https://github.com/user-attachments/assets/768da6e4-fcc9-4ff4-988c-328cd7a0952d)
+
 
 ### Data Output Example  
 ```csv
