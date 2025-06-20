@@ -104,11 +104,13 @@ Timestamp, Temperature(C), Humidity(%), Sunlight(%), Rainfall(%)
 2025-06-20T10:30:00, 26.7, 60.1, 92.4, 15.7  # Light rain detected
 ```
 
-![Example-Chart](https://github.com/user-attachments/assets/74d02c03-f66c-4435-a9a6-2c5e9d64854c)
+---
+
+![Example-Chart](https://github.com/user-attachments/assets/2a3e9bba-172b-41a9-9d21-67405d1e374e)
 
 ---
 
-## Future Improvement (Updated)
+## Future Improvement (Update)
    - [ ] CO₂ monitoring  
    - [ ] Wind speed sensor  
    - [ ] Bluetooth data export  
